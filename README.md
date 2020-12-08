@@ -84,5 +84,5 @@ In this example, the sum of these counts is **3 + 0 + 1 + 1 + 1 = 6**.
 
 For each group, count the number of questions to which everyone answered "yes". What is the sum of those counts?
 
-> Obs.: Resolution for the second problem
+> Obs.: Resolution for the second problem on the part-two branch
 
